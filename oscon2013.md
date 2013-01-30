@@ -1,5 +1,4 @@
-# Sharing Your Materials Is Better For Everyone
-
+# Empowering Education Through Collaboration
 
 Open source has been exploding for developers and designers in the last
 few years. Materials are now out in the wild that allow someone to get
