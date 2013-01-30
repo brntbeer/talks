@@ -1,0 +1,10 @@
+# Sharing Your Materials Is Better For Everyone
+
+
+Open source has been exploding for developers and designers in the last
+few years. Materials are now out in the wild that allow someone to get
+up to speed so much faster than previously possible. With the power of
+Git and GitHub sharing has never been easier, why can't the same be true
+for teaching materials?
+
+
