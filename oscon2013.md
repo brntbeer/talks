@@ -14,4 +14,7 @@ relationship falls apart and learning is now even more difficult. If the
 student had access to their material, they could work through it themselves.
 If the substitute was able to see an example of what was prepared last year
 they could expand upon it or use it outright without need for the
-teacher to customize a new lesson plan.
+teacher to customize a new lesson plan.  In this session, we'll see how
+having your material stored in Git and on GitHub allows students to stay
+in touch with each other as well as their professor regardless of physical
+presence to enhance everyones' learning.
