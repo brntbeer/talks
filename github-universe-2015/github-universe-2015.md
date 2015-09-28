@@ -1,3 +1,19 @@
+# Outline
+
+## Pull Request
+- What are they?
+- How do you use them?
+- What are ways to do them well
+
+### Testing, all the time.
+- White paper research
+- "Use Travis CI, or some other testing service"
+- Link to a RubyHoedown 2012 talk maybe where someone (big in ruby) was saying that even a few minutes a day of spending time testing would roll up into minutes lost, then hours, then days over the course of a project
+
+### Summary
+- Use Pull Request
+- Talk to your team
+- Speak like a human
 
 ## Notes
 - [Breaking through with continuous integration]( https://www.atlassian.com/agile/continuous-integration)
