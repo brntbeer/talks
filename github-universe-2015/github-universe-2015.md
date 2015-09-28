@@ -17,6 +17,12 @@
 - "Use Travis CI, or some other testing service"
 - Link to a RubyHoedown 2012 talk maybe where someone (big in ruby) was saying that even a few minutes a day of spending time testing would roll up into minutes lost, then hours, then days over the course of a project
 
+#### Setup with Travis
+- I use Travis CI because it's free, I love the documentation, and it Just Works for me.
+- Let's add some testing into this, because I want to make sure to some degree that my work is going to work for all time.
+- One thing that's easy to forget is that, even though **we** have now said "a url is forever", that doesn't mean other websites adhere to that. What if one of the URLs in my notes section changes? I don't think my tests should pass.
+- _Set up travis CI real quick like, maybe even live. Use html-proofer to check URLS still existing. Find a URL that is broke and fix it._
+
 ### Summary
 - Use Pull Request
 - Talk to your team
