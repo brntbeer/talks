@@ -47,6 +47,12 @@
 - (Are there any Bill Nye fans in the audience? One of the things I loved about his show was when he dropped knowledge, "DID YOU KNOW THAT....:" and then he'd explain something, and then the big ominous voice would come back, "NOW YOU KNOWWWWWWW".)
 - If we create a webhook for our repository, we could have it send data every time someone comments. If someone comments with `:+1:`, then we may want to count that as them saying they've reviewed the work. This will also have to take into effect a cultural change of people still needing to comment.
 - That webhook could go to a server we consider CI, and if there still hasn't been any `:+1:`s on the thread, the tests fail.
+- You could also build this to check for a given person to comment, so not everyone could.
+
+### Summary
+- Code review comes in many flavors
+- Decide how you want to do code review within your team and within your company
+  - Decide if you want to force it or just lead by examples.
 
 ## Notes
 - [Breaking through with continuous integration]( https://www.atlassian.com/agile/continuous-integration)
