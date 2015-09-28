@@ -35,6 +35,18 @@
   - We are often asked by customers and new users of GitHub about code review and we tell them we have code review. Which I agree with, we do. Through pull request and good social interactions, you can adhere to a culture of "no one ships alone". What I mean by this is that if you're new, and you're working on a teacher, you should not merge until someone on another team or a mentor, or someone senior, or just another person on YOUR team looks at the work and shares the responsibility.
   - This has worked for us for many years, but it's not the only way to do it. As we've grown – both as a company and the number of users – we've heard from our customers and found out about reasons why you would want more rigorous (or gated) code review. The first thing we've done about this is build out protected branches.
 
+### Protected Branches
+- Protected branches is the first step to not just listening some of the feedback we received, but really hearing it and doing something about it. **This has been something we've been working on for a long time, and wanted to get correct**.
+- Let's take a look at setting up protected branches for our project.
+
+#### Protected Branches Setup
+- The thing I want to protect for my repository is master. If you're even knew to Git, master isn't really a special branch or place. It's just a default within the community that people generally associate with "This is the code that is running on our production servers". In fact, some people who use a philosophy of Continuous Delivery through something like CodeShip, or even on TravisCI / CircleCI to send their code off to Heroku, their Amazon EC2 server, or their own server in your own data center have automatic deployments once their pull request gets merged into master. Sounds like good candidacy for protected branches.
+- **_Set up protected branches for Master with required status checks for CI_**
+- Now as I mentioned, there are many levels of code review. Cultural is one, checking all tests pass is another. We often hear from customers that they want to force review before it gets merged as well. I personally don't love this, because it can slows down the developer to get their changes into production. But, some people need it, and so we can do that too.
+- See how we have a required status check for CI? Well, what if we had CI to check for comments?
+- (Are there any Bill Nye fans in the audience? One of the things I loved about his show was when he dropped knowledge, "DID YOU KNOW THAT....:" and then he'd explain something, and then the big ominous voice would come back, "NOW YOU KNOWWWWWWW".)
+- If we create a webhook for our repository, we could have it send data every time someone comments. If someone comments with `:+1:`, then we may want to count that as them saying they've reviewed the work. This will also have to take into effect a cultural change of people still needing to comment.
+- That webhook could go to a server we consider CI, and if there still hasn't been any `:+1:`s on the thread, the tests fail.
 
 ## Notes
 - [Breaking through with continuous integration]( https://www.atlassian.com/agile/continuous-integration)
