@@ -5,6 +5,13 @@
 - How do you use them?
 - What are ways to do them well
 
+### Setup
+- In my few years of training, I don't know if I ever had a class where everyone in the class knew just one language or if everyone was on an even level. So, I and the rest of the training team usually taught with markdown. It's the best way to relate to projects people may work on, so that's what I'm doing today.
+- My project just has a few markdown files in it that I use as outlines for my talks. If you want to relate this to something else for yourself, think of this as your documentation repository for all of your projects on GitHub.
+- SO! Let's take a look at what's missing from this repository and add it in a pull request. If you're new to pull requests, which I know some people are, it may seem odd based on my explanation previously that I send myself a pull request. Many people often say, "Wait, I'm working by myself. No one is going to work on this with me, why do I 'Open it for discussion'?". Pull requests help me think about the work. It gives me a sandbox environment to work on my own changes. Besides that, even if you're working by yourself, are you going to be working by yourself forever? What if you open source this work? If you're working on it inside of GitHub Enterprise and your team starts to grow? Let's give context to WHY we're doing this change.
+  - Some will say the commits will tell why. And that's true, they could but in my opinion, [that's not a proper unit of change](http://zachholman.com/posts/git-commit-history/) in today's day in age. Zach Holman's blog post about this is pretty great in describing pull requests and their usefulness for conversations.
+- _Create Pull request_
+
 ### Testing, all the time.
 - White paper research
 - "Use Travis CI, or some other testing service"
