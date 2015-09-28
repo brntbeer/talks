@@ -54,6 +54,24 @@
 - Decide how you want to do code review within your team and within your company
   - Decide if you want to force it or just lead by examples.
 
+## The GitHub Flow
+- What is the GitHub flow?
+  - At it's core, _GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly._
+  - https://guides.github.com/introduction/flow/
+- Why does the GitHub Flow matter?
+  - What about Git Flow!
+  - Git Flow is harder to learn, and puts more constraints around your developers. We already have code review (maybe even with protected branches), do we need some hard (e.g. it has many steps) workflow on top of it?
+- GitHub Flow isn't set in stone either. In fact, at GitHub we have our own special take on it. When we have a pull request, we deploy that branch to production. This is pretty automated and done through our chat service with Hubot.
+- Show: http://githubengineering.com/deploying-branches-to-github-com/
+- If we wanted to, we could make it so some branches can't be deployed if there are certain tests failing too, we could check that in our deployment sections
+
+### Summary
+- All of these pieces are what make software development more human and more safe.
+- Some people may even see Pull Request as something that slows down development, "I just commit to master".
+  - But now, a pull request is critical to open source and inner-sourced application development around the world from some of the best and brightest developers.
+- Some people see code review as another step towards making it harder to ship code. The steps you'd have to take to un-do errors is not worth ignoring this. Just because something takes a little while to do at first, doesn't mean it won't end up being faster to do later, and pay off in the end.
+- Using Pull Requests, talking to your teammates or collaborators, and making sure that the code is well tested and reviewed before your merge it are crucial parts of the GitHub Flow and the GitHub Flow is how software should be developed.
+
 ## Notes
 - [Breaking through with continuous integration]( https://www.atlassian.com/agile/continuous-integration)
 - [Why code reviews matter
