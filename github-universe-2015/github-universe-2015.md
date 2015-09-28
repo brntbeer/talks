@@ -29,6 +29,7 @@
 - Speak like a human
 
 ## Code Review
+- Now, one could say that if your tests are failing, that you shouldn't be able to merge that code into production.
 - What is it?
 - Many levels of code review
   - We are often asked by customers and new users of GitHub about code review and we tell them we have code review. Which I agree with, we do. Through pull request and good social interactions, you can adhere to a culture of "no one ships alone". What I mean by this is that if you're new, and you're working on a teacher, you should not merge until someone on another team or a mentor, or someone senior, or just another person on YOUR team looks at the work and shares the responsibility.
