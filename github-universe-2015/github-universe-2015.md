@@ -48,6 +48,8 @@
 - If we create a webhook for our repository, we could have it send data every time someone comments. If someone comments with `:+1:`, then we may want to count that as them saying they've reviewed the work. This will also have to take into effect a cultural change of people still needing to comment.
 - That webhook could go to a server we consider CI, and if there still hasn't been any `:+1:`s on the thread, the tests fail.
 - You could also build this to check for a given person to comment, so not everyone could.
+- Weellll... If you don't want to spend time building it yourself, and you want some more structure around the review (mark comments as needing to be resolved, external tool for :+1: because your managers only want view that site, etc) you can use [ReviewNinja](https://review.ninja). This is open source, so you can work on it yourself and help add to it if there's something missing, but this is just another example of GitHub's integration power. ReviewNinja can be deployed to Heroku, or you can set it up on AWS if you're so inclined. Or just GitHub.com
+- **Show ReviewNinja required status**
 
 ### Summary
 - Code review comes in many flavors
