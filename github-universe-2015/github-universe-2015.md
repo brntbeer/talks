@@ -32,6 +32,7 @@
 - Now, one could say that if your tests are failing, that you shouldn't be able to merge that code into production.
 - What is it?
 - Many levels of code review
+  - Some people view code review as a thing that happens on a thursday or friday at the end of their sprint cycle. Why would you be synchronous with your code review? You don't want your developers schedule to have calendars, you want it to look empty. If you're worried about them getting work done, we have graphs you can look at to ensure they're getting work done. Allow code review to happen at all time.
   - We are often asked by customers and new users of GitHub about code review and we tell them we have code review. Which I agree with, we do. Through pull request and good social interactions, you can adhere to a culture of "no one ships alone". What I mean by this is that if you're new, and you're working on a teacher, you should not merge until someone on another team or a mentor, or someone senior, or just another person on YOUR team looks at the work and shares the responsibility.
   - This has worked for us for many years, but it's not the only way to do it. As we've grown – both as a company and the number of users – we've heard from our customers and found out about reasons why you would want more rigorous (or gated) code review. The first thing we've done about this is build out protected branches.
 
