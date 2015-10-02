@@ -86,12 +86,14 @@
   - _It’s too easy for us as developers to say that a specific change won’t break something and later realise it did break the app. Often we are simply too lazy to really run all of our tests. This is where an automated system that runs or tests whenever we do any changes continuously can help us from falling into the trap._
 
 ## Post Talk feedback
-- Slow down the video, not everyone knew what was going on.
-  - Or use the `k` key in keynote to pause at certain sections. I would have run over on time if I did too much of this =(.
-- Make videos bigger so everyone can see.
-- Use a Madonna mic.
-  - Some sentences just kind of trailed off.
-- Should have included twitter handle in first slide of talk.
-- Use more inflection when I want to emphasize something.
-  - Jokes were lostttt!
-- :+1: to no filler words.
+- Slow down the video, not everyone knew what was going on
+  - Or use the `k` key in keynote to pause at certain sections. I would have run over on time if I did too much of this =(
+- Make videos bigger so everyone can see
+- Use a Madonna mic
+  - Some sentences just kind of trailed off because of head movement
+- Should have included twitter handle in first slide of talk
+- Use more inflection when I want to emphasize something
+  - Jokes were lost!
+- :+1: to no filler words
+- Show examples of pull requests for other to see
+  - https://github.com/atom/atom would have been great
