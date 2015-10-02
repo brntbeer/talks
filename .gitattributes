@@ -1,2 +1,15 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -crlf
 *.key filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/atom.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/close-issue-from-PR.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/explore.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/gist-full-repos.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/git-io.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/global-pulls.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/license-and-line-comments.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/prs-to-anyone.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/rendering.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/revert-pr.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/svn-hub.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/task-lists.mp4 filter=lfs diff=lfs merge=lfs -crlf
+everything-i-wish-i-knew-when-starting-github/web-spelunking.mp4 filter=lfs diff=lfs merge=lfs -crlf
