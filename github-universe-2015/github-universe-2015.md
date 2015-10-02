@@ -87,7 +87,7 @@
 
 ## Post Talk feedback
 - Slow down the video, not everyone knew what was going on
-  - Or use the `k` key in keynote to pause at certain sections. I would have run over on time if I did too much of this =(
+  - Or use the `k` key in keynote to pause at certain sections. I would have run over on time if I did too much of this
 - Make videos bigger so everyone can see
 - Use a Madonna mic
   - Some sentences just kind of trailed off because of head movement
