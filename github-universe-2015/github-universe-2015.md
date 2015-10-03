@@ -97,3 +97,5 @@
 - :+1: to no filler words
 - Show examples of pull requests for other to see
   - https://github.com/atom/atom would have been great
+- Great pace of talk
+- Could use better stage presence / body language / engaging body langauge
