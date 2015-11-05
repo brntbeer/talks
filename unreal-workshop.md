@@ -2,7 +2,11 @@
 
 ## How we'll be working today
 - How many of you use Command Line for some of your development?
-  - This is the most granular way to work with Large Files with Git by using Git LFS. However, we'll be using the GitHub Desktop client today to do our work with large files.
+  - This is the most granular way to work with Large Files with Git by using Git LFS.
+- If not a lot of terminal users:
+  - However, we'll be using the GitHub Desktop client today to do our work with large files.
+- If mostly terminal users:
+  - Great! This is the way we'll end up with the most power and flexibility to working with Git.
 
 ## What is Git and GitHub
 - Only having 30 minutes to explain working with large files, I'm going to make some assumptions about everyone's knowledge about Git and GitHub. I assume you all have GitHub.com accounts (if you don't, it's free to signup and takes only seconds!) and I assume you may know about Git.
