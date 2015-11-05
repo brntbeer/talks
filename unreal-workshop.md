@@ -50,4 +50,4 @@ OPEN GIMP (I'm sorry!)
 - So the workflow seems nearly the same, so a lot of people often wonder what the differences are.
 
 1. As we continue to use these large assets without LFS, any edits to the files doubles the size the file takes up on disk. This is because of the way Git stores files (commit 1 has the file at 100mb, after an edit the file is at 120mb, so thats 100+120mb on disk). We'd like the size of the repository on GitHub to not include this large size, but maybe when you work locally you can have that large file
-2. As someone whos not working on the assets, maybe you dont need this large file since you're working on the source code for the asset or the documentation. Let's keep the size of the repository locally for these users as small as possible.
+2. As someone who's not working on the assets, maybe you don't need this large file since you're working on the source code for the asset or the documentation. Let's keep the size of the repository locally for these users as small as possible.
