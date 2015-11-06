@@ -54,3 +54,4 @@ OPEN DESKTOP (possibly terminal)
 - (Personally) thought the ending punch wasn't big enough, but others said it was still awesome
 - Didn't mention git-lfs being open source (I don't think in the talk I did anyways, I know I did afterwards to a few community members)
 - Had contact info for everyone to get a hold of me, but forgot to put it on last slide.
+- Mention what goal of the talk is, or what I expect people to walk away with.
