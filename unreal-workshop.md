@@ -48,3 +48,9 @@ OPEN DESKTOP (possibly terminal)
 
 1. As we continue to use these large assets without LFS, any edits to the files doubles the size the file takes up on disk. This is because of the way Git stores files (commit 1 has the file at 100mb, after an edit the file is at 120mb, so thats 100+120mb on disk). We'd like the size of the repository on GitHub to not include this large size, but maybe when you work locally you can have that large file
 2. As someone who's not working on the assets, maybe you don't need this large file since you're working on the source code for the asset or the documentation. Let's keep the size of the repository locally for these users as small as possible.
+
+# Feedback
+- When using terminal, commands were at the bottom of the screen sometimes and kind of hard to see.
+- (Personally) thought the ending punch wasn't big enough, but others said it was still awesome
+- Didn't mention git-lfs being open source (I don't think in the talk I did anyways, I know I did afterwards to a few community members)
+- Had contact info for everyone to get a hold of me, but forgot to put it on last slide.
