@@ -20,11 +20,11 @@
 ### Examples of GitHub diff'ing images
 - There's only a few things so far that GitHub will show the difference of. The first was images.
 
-SHOW IMAGES
+-  https://github.com/leereilly/gears-of-war-ultimate-edition-screenshot-comparison/pull/1/files
 
 - The next I think came 3d images
 
-SHOW 3D RENDERING
+- https://github.com/underverk/3D_Printer/commit/d6b19d047647fcd4415b739903b630649c487cc1
 
 - Etc. Well large binaries are still an issue, and people would like to edit them, AND record the differences in version control (Git in this case)
 
