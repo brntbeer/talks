@@ -13,3 +13,4 @@ everything-i-wish-i-knew-when-i-started-using-github/revert-pr.mp4 filter=lfs di
 everything-i-wish-i-knew-when-i-started-using-github/svn-hub.mp4 filter=lfs diff=lfs merge=lfs -crlf
 everything-i-wish-i-knew-when-i-started-using-github/task-lists.mp4 filter=lfs diff=lfs merge=lfs -crlf
 everything-i-wish-i-knew-when-i-started-using-github/web-spelunking.mp4 filter=lfs diff=lfs merge=lfs -crlf
+*.m4v filter=lfs diff=lfs merge=lfs -text
